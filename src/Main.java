@@ -5,6 +5,8 @@ public class Main {
         //TIP Press <shortcut actionId="ShowIntentionActions"/> with your caret at the highlighted text
         // to see how IntelliJ IDEA suggests fixing it.
         System.out.println("1a modificació Git");
+        System.out.println("2a modificació Git");
+
 
 
 
